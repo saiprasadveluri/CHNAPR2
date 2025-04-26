@@ -19,3 +19,7 @@ Feature2_Function3()
 LocalRepoChange()
 {
 }
+
+NewFeatureAdededLocally()
+{
+}

@@ -13,3 +13,7 @@ Feature2_Function_OnGitHub()
 Feature2_Function3()
 {
 }
+
+LocalRepoChange()
+{
+}
